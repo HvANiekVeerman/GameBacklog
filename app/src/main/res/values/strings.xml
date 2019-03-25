@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="title">Title</string>
+    <string name="titleHint">Title:</string>
+    <string name="platformHint">Platform</string>
+    <string name="status">Status</string>
+    <string name="spinnerOption1">Want to play</string>
+    <string name="spinnerOption2">Playing</string>
+    <string name="spinnerOption3">Stalled</string>
+    <string name="spinnerOption4">Dropped</string>
+    <string name="addGameActionBar">Add Game</string>
+    <string name="editGameActionBar">Edit Game</string>
+    <string name="mainActivityActionBar">Game Backlog</string>
+    <string name="dateFormat">dd/MM/yyyy</string>
+    <string name="gameDeleted">deleted.</string>
+    <string name="allGamesDeleted">All games deleted.</string>
+    <string name="undo">UNDO</string>
+</resources>
